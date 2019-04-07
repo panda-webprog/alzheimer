@@ -315,6 +315,13 @@ img{width:auto; max-width:100%; height:auto; margin:0; padding:0; border:none; l
 .imgr{margin:0 0 10px 15px; clear:right;}
 
 
+/*images in contact page*/
+.contact{
+	width: 20px;
+	height: 20px;
+}
+
+
 /* Media Queries
 --------------------------------------------------------------------------------------------------------------- */
 @-ms-viewport{width:device-width;}
